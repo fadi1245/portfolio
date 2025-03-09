@@ -6,6 +6,7 @@ import Techno from './components/techno'
 import Experience from './components/experience'
 import Projects from './components/projects'
 import Contact from './components/contact'
+import Uploadresume from './components/uploadresume'
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
       <Techno/>
       <Experience/>
       <Projects/>
+      <Uploadresume/>
       <Contact/>
       </div>
     </div>
