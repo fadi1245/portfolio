@@ -1,5 +1,5 @@
 import React from 'react';
-import resume from '/mohammed-fadi-resume.pdf';
+import resume from '../../public/Mohammer-Fadi-Resume.pdf';
 
 function Uploadresume() {
   return (
